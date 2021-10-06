@@ -1,0 +1,12 @@
+.quotes-container {
+    text-align: center;
+}
+.quotes-container img {
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+}
+.quote__harvesting, .quote__scuba {
+    padding: 0 0 20px 0; 
+}
+
